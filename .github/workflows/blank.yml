@@ -1,0 +1,9 @@
+# user sy input lejiya
+name = input("Enter the boy name")
+programing_language = input("Enter a programing_languag:(e.g: python,next js,typescrl,html):")
+
+# Story created
+print("\n Here is my little story based on mad libs game1")
+print(f"one upon a time,there was a boy named {name}.")
+print(f"{name})was very curious and always want to  learn news thinke )
+
