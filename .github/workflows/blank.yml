@@ -1,9 +1,12 @@
 # user sy input lejiya
 name = input("Enter the boy name")
 programing_language = input("Enter a programing_languag:(e.g: python,next js,typescrl,html):")
-
+mentor = input("Enter the mentor name:")
 # Story created
-print("\n Here is my little story based on mad libs game1")
-print(f"one upon a time,there was a boy named {name}.")
-print(f"{name})was very curious and always want to  learn news thinke )
+print("\n Here is my little story based on mad libs game!")
+print(f"One upon a time,there was a boy named {name}.")
+print(f"{name})was very curious and always want to learn new things")
+print(f"One day ,he decided to learn {programing_language} language at governor house ! ")
+print(f"luckily {name} fount a great  mentor name as mentor{mentor} who was an expert in {programing_language}. ")
+print("And so his journey continues...!")
 
